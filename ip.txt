@@ -1,0 +1,78 @@
+IP: 74.125.208.160
+User-Agent: Google-Lens
+
+IP: 74.125.208.160
+User-Agent: Google-Lens
+
+IP: 74.125.208.160
+User-Agent: Google-Lens
+
+IP: 74.125.208.160
+User-Agent: Google-Lens
+
+IP: 2a09:bac5:58af:36e6::578:23
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 2a09:bac5:58af:36e6::578:23
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 193.33.157.88
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 193.33.157.88
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 193.33.157.88
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 193.33.157.88
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 74.125.208.98
+User-Agent: Google-Lens
+
+IP: 74.125.208.99
+User-Agent: Google-Lens
+
+IP: 74.125.208.99
+User-Agent: Google-Lens
+
+IP: 74.125.208.5
+User-Agent: Google-Lens
+
+IP: 104.28.248.171
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 104.28.248.171
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 66.249.81.107
+User-Agent: Google-Lens
+
+IP: 66.249.81.105
+User-Agent: Google-Lens
+
+IP: 66.249.81.105
+User-Agent: Google-Lens
+
+IP: 66.249.81.107
+User-Agent: Google-Lens
+
+IP: 66.249.81.107
+User-Agent: Google-Lens
+
+IP: 104.28.248.171
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 66.249.81.101
+User-Agent: Google-Lens
+
+IP: 104.28.248.171
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 104.28.216.171
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
+IP: 2a09:bac5:58af:2e6::4a:65
+User-Agent: Mozilla/5.0 (Linux; Android 10; K) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/155.0.0.0 Mobile Safari/537.36
+
